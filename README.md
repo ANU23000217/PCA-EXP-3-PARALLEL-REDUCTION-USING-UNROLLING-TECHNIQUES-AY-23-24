@@ -380,4 +380,4 @@ int main(int argc, char **argv)
 <img width="1308" height="75" alt="image" src="https://github.com/user-attachments/assets/46093343-6f4f-4eec-b3cb-9bd9d81c8b51" />
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that GPU has executed with less elapsed time than GPU with blocks 2048,512.
