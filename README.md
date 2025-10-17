@@ -245,4 +245,4 @@ int main() {
 <img width="1478" height="93" alt="image" src="https://github.com/user-attachments/assets/6109647a-feba-4ecc-8f5f-3ce9406c3dd0" />
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that GPU has executed with less elapsed time than GPU with blocks 2048,512.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that __unrolling__16 has executed with less elapsed time than __unrolling__8 with blocks 2048,512.
